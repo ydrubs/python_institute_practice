@@ -1,2 +1,3 @@
 Some text was added - first change
 Some more text added - second change
+Another change - Third version
