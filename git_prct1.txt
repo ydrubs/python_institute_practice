@@ -1,2 +1,2 @@
-Some text was added
-Some more text added
+Some text was added - first change
+Some more text added - second change
