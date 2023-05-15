@@ -1,3 +1,8 @@
 Some text was added - first change
 Some more text added - second change
 Another change - Third version
+
+
+git remote set-url origin <URL> -> set repository URL for github
+git remote -v view reopository URL
+
